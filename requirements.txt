@@ -1,8 +1,8 @@
-requests
-pandas
-openpyxl
-matplotlib
-seaborn
-streamlit
-numpy
-altair
+requests 
+pandas 
+openpyxl 
+matplotlib 
+seaborn 
+streamlit 
+numpy 
+altair==4.2.2 
